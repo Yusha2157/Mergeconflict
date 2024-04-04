@@ -1,3 +1,4 @@
+#this is new line 
 a = 10
 b = 20
 c = int(input("enter a number :")
